@@ -4,7 +4,7 @@ footer.innerHTML =`<nav>
 <div class="navbar_custom">
 	
 <div class="./content/images/LOGO.png">
-    <h2>last bench</h2>
+    <h2>question papers avalible </h2>
 </div>
 <ul class="links">
     <li><a href="https://lastminutepdf.netlify.app/">home</a></li>
